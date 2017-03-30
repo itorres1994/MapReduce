@@ -1,0 +1,35 @@
+
+
+tempdataAvg.txt
+["Europe", "2014"]	9.04
+["Europe", "2015"]	12.52
+["Europe", "2016"]	10.96
+["North America", "2014"]	8.3
+["North America", "2015"]	8.54
+["North America", "2016"]	10.11
+["South America", "2014"]	10.24
+["South America", "2015"]	10.36
+
+tempdataAvg2.txt
+["Europe", "2014"]	10.47
+["Europe", "2016"]	10.88
+["North America", "2014"]	9.08
+["North America", "2015"]	9.79
+["North America", "2016"]	12.31
+["South America", "2015"]	6.85
+["South America", "2016"]	7.98
+
+tempdataAvg3.txt
+["Europe", "2014"]	12.09
+["Europe", "2015"]	12.38
+["Europe", "2016"]	9.79
+["North America", "2014"]	9.78
+["North America", "2015"]	8.71
+["North America", "2016"]	9.85
+["South America", "2015"]	8.27
+["South America", "2016"]	8.39
+
+tempdata4.txt
+[" Europe ", " 2014 "]	83.91
+[" North America ", " 2016 "]	20.87
+[" South America ", " 2015 "]	85.1

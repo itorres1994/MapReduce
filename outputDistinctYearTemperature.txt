@@ -1,0 +1,15 @@
+
+
+tempdata.txt
+" 2014 "	101
+" 2016 "	101
+
+tempdata2.txt
+" 2015 "	150
+
+tempdata3.txt
+
+tempdata4.txt
+" 2014 "	101
+" 2015 "	101
+" 2016 "	101

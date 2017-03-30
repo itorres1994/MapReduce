@@ -1,0 +1,3 @@
+www.morewebsites.com,this is yet another example for the map
+www.runningoutofnames.com,reduce python program to show that it can work
+www.onwardtovictory.com,on multiple files using bash scripting
